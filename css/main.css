@@ -6,13 +6,12 @@
 
 html {
   box-sizing: border-box;
+  font-family: "Roboto Slab", serif;
 
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-
-  font-family: "Roboto Slab", serif;
 }
 
 *, *::before, *::after {
